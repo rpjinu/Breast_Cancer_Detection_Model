@@ -12,17 +12,17 @@ Attribute Information: \
 
    #  Attribute                     Domain
    -- -----------------------------------------
-   1. Sample code number            id number
-   2. Clump Thickness               1 - 10
-   3. Uniformity of Cell Size       1 - 10
-   4. Uniformity of Cell Shape      1 - 10
-   5. Marginal Adhesion             1 - 10
-   6. Single Epithelial Cell Size   1 - 10
-   7. Bare Nuclei                   1 - 10
-   8. Bland Chromatin               1 - 10
-   9. Normal Nucleoli               1 - 10
-  10. Mitoses                       1 - 10
+    Sample code number            id number
+   1. Clump Thickness               1 - 10
+   2. Uniformity of Cell Size       1 - 10
+   3. Uniformity of Cell Shape      1 - 10
+   4. Marginal Adhesion             1 - 10
+   5. Single Epithelial Cell Size   1 - 10
+   6. Bare Nuclei                   1 - 10
+   7. Bland Chromatin               1 - 10
+   8. Normal Nucleoli               1 - 10
+  9. Mitoses                       1 - 10
 
 Target
 Class distribution:
-  11. Class:                        (2 for benign, 4 for malignant)
+  10. Class:                        (2 for benign, 4 for malignant)
